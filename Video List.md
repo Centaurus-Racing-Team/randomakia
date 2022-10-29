@@ -15,6 +15,7 @@
 * [Linear, LDO and switching mode regulators](https://www.youtube.com/watch?v=cM7t1Mpu7s4)
 * [Constant current load](https://www.youtube.com/watch?v=8uBcywBUTkw&t=0s)
 * [Bypass capacitor tutorial](https://www.youtube.com/watch?v=BcJ6UdDx1vg)
+* [FreeRTOS 101](https://www.youtube.com/watch?v=684KSAvYbw4)
 
 <div style="text-align: center">
 <img src="https://drive.google.com/uc?export=view&id=1-s5-9cknfq3nvG6eHZH452l5_JqVU9x2" width="350">
